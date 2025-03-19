@@ -6,6 +6,8 @@
 function App() {
   // const [count, setCount] = useState(0)
 
+  const username = "| Shreeesh Sharma"
+
   return (
     // <>
     //   <div>
@@ -29,7 +31,7 @@ function App() {
     //     Click on the Vite and React logos to learn more
     //   </p>
     // </>
-    <h1>React practice | Shubhang Sharma</h1>
+    <h1>React practice | Shubhang Sharma {username}</h1>
   )
 }
 
